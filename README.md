@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MandarBapat
-- 👀 I’m interested in Machine Learning, Deep Learning, Cryptography and Robotics.
-- 🌱 I’m currently learning ROS and Django.
+- 👀 I’m interested in Cryptography, Machine Learning and Computer Networks.
 - 📫 How to reach me:
    My LinkedIn profile - https://www.linkedin.com/in/mandar-bapat/
 
